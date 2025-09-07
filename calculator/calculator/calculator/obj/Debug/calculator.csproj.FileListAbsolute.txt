@@ -1,7 +1,0 @@
-C:\Users\Windows 11\Desktop\c# project\calculator\calculator\calculator\bin\Debug\calculator.exe.config
-C:\Users\Windows 11\Desktop\c# project\calculator\calculator\calculator\bin\Debug\calculator.exe
-C:\Users\Windows 11\Desktop\c# project\calculator\calculator\calculator\bin\Debug\calculator.pdb
-C:\Users\Windows 11\Desktop\c# project\calculator\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
-C:\Users\Windows 11\Desktop\c# project\calculator\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
-C:\Users\Windows 11\Desktop\c# project\calculator\calculator\calculator\obj\Debug\calculator.exe
-C:\Users\Windows 11\Desktop\c# project\calculator\calculator\calculator\obj\Debug\calculator.pdb
